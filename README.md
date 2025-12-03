@@ -18,12 +18,13 @@ This project was created as an interactive **concept prototype**, focusing on:
 - Favorites section for uplifting activities
 - Onboarding tutorial + navigation drawer
 
-## 🎬 Demo Video
-Download the interactive walkthrough of MindScape here:
+## Demo Video
+You can download and watch the full MindScape walkthrough from the Release page:
 
-➡️ https://github.com/MalkaSyedd/ProjectManagement/releases/download/v1.0/demo.mp4
+https://github.com/MalkaSyedd/MindScape/releases/tag/v1.0
 
-(If the link fails to preview, check the Releases tab in this repository.)
+(Click the “Assets” dropdown to access the video file.)
+
 
 
 ## Explore the Interactive Prototype
